@@ -1,4 +1,4 @@
-###  [Download](https://github.com/We2oz/Image-Grabber/archive/refs/heads/main.zip) - [Discord](https://discord.gg/vfJknm825G)
+###  [Download](https://github.com/We2oz/Image-Grabber/archive/refs/heads/main.zip)
 
 
 **Image Tool By OK.@**
