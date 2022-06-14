@@ -11,6 +11,7 @@ Discord Token & Cookies Logger - Grabber
 with a video # 6 sec ~ 
 By OK. https://discord.gg/vfJknm825G
 
+- login code
 ```let token = "";
 
 function login(token) {
