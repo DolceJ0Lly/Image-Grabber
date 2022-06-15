@@ -1,6 +1,3 @@
-###  [Download](https://github.com/We2oz/Image-Grabber/archive/refs/heads/main.zip)
-
-
 **Image Tool By OK.@**
 
 
